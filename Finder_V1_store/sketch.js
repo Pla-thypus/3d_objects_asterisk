@@ -22,12 +22,12 @@ function draw() {
   
   background(0);
 
-  translate(0,35,-10);
+  translate(0,30,-10);
   orbitControl(3);
   smooth();
   
   
-  scale(0.8);
+  scale(1);
   
   specularMaterial(255)
   noStroke()
