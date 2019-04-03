@@ -29,7 +29,7 @@ function draw() {
   smooth();
   
   
-  scale(0.8);
+  scale(0.7);
   
   specularMaterial(255)
   noStroke()
